@@ -1,2 +1,3 @@
 Today I learned Git.
 Git tracks changes.
+This line exists only in feature branch.
